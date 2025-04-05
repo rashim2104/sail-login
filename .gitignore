@@ -12,6 +12,7 @@ yarn-error.log
 # IDE files
 .idea/
 .vscode/
+.next/
 *.suo
 *.ntvs*
 *.njsproj
